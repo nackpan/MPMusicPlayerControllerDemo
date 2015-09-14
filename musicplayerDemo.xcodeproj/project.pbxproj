@@ -411,6 +411,7 @@
 				599AAE101BA4C85E0072452E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		599AAE111BA4C85E0072452E /* Build configuration list for PBXNativeTarget "musicplayerDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				599AAE131BA4C85E0072452E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

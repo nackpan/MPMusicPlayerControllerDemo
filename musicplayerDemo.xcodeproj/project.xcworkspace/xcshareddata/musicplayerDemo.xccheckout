@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1277EBA-4DE9-4C3B-9ED5-3183B5D7A2E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>musicplayerDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2FDB9B4A2016DCC5CF172634C9230AEDFF4B435B</key>
+		<string>https://github.com/nackpan/MPMusicPlayerControllerDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>musicplayerDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2FDB9B4A2016DCC5CF172634C9230AEDFF4B435B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nackpan/MPMusicPlayerControllerDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2FDB9B4A2016DCC5CF172634C9230AEDFF4B435B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2FDB9B4A2016DCC5CF172634C9230AEDFF4B435B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MPMusicPlayerControllerDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
