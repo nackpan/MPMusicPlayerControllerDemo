@@ -40,8 +40,9 @@ class ViewController: UIViewController, MPMediaPickerControllerDelegate {
     }
     
     // メディアアイテムピッカーでアイテムを選択完了したときに呼び出される
-    func mediaPicker(mediaPicker: MPMediaPickerController!, didPickMediaItems mediaItemCollection: MPMediaItemCollection!) {
+    func mediaPicker(mediaPicker: MPMediaPickerController, didPickMediaItems mediaItemCollection: MPMediaItemCollection) {
         
+
         // 選択した曲情報がmediaItemCollectionに入っているので、これをplayerにセット。
         player.setQueueWithItemCollection(mediaItemCollection)
         // 再生開始
@@ -53,7 +54,7 @@ class ViewController: UIViewController, MPMediaPickerControllerDelegate {
     
     
     //選択がキャンセルされた場合に呼ばれる
-    func mediaPickerDidCancel(mediaPicker: MPMediaPickerController!) {
+    func mediaPickerDidCancel(mediaPicker: MPMediaPickerController) {
         // ピッカーを閉じ、破棄する
         mediaPicker.dismissViewControllerAnimated(true, completion: nil)
     }
